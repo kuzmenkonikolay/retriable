@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6d8761e3-1c01-453f-83b4-33db8e92f660" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,12 +24,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="retriable.gemspec" pinned="false" current-in-tab="true">
+      <file leaf-file-name="retriable.gemspec" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/retriable.gemspec">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+                <folding>
+                  <marker date="1519214539999" expanded="true" signature="918:1055" ph=" ... end" />
+                  <marker date="1519214539999" expanded="true" signature="989:1051" ph=" ... end" />
+                  <marker date="1519214539999" expanded="true" signature="1014:1045" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="4263:4324" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="4537:4560" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="4720:4743" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="5242:5413" ph="{ ... }" />
+                  <marker date="1519214539999" expanded="true" signature="5415:5438" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="5800:5823" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="5982:6005" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="6323:6346" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="6713:6736" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="7534:7557" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="7902:7925" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="8369:8563" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="8618:8641" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="9095:9343" ph="begin ... end" />
+                  <marker date="1519214539999" expanded="true" signature="9123:9147" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="9643:9864" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="9671:9762" ph="{ ... }" />
+                  <marker date="1519214539999" expanded="true" signature="9732:9758" ph="{ ... }" />
+                  <marker date="1519214539999" expanded="true" signature="9786:9860" ph="{ ... }" />
+                  <marker date="1519214539999" expanded="true" signature="10202:10221" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="10292:10317" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="10453:10534" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="10968:10991" ph="do ... end" />
+                  <marker date="1519214539999" expanded="true" signature="11022:11045" ph="do ... end" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -43,6 +85,7 @@
       <list>
         <option value="$PROJECT_DIR$/lib/retriable/config.rb" />
         <option value="$PROJECT_DIR$/retriable.gemspec" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -128,17 +171,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519213235781</updated>
-      <workItem from="1519213237309" duration="793000" />
+      <workItem from="1519213237309" duration="1300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="793000" />
+    <option name="totallyTimeSpent" value="1300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -181,8 +225,47 @@
     <entry file="file://$PROJECT_DIR$/retriable.gemspec">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <folding>
+              <marker date="1519214539999" expanded="true" signature="918:1055" ph=" ... end" />
+              <marker date="1519214539999" expanded="true" signature="989:1051" ph=" ... end" />
+              <marker date="1519214539999" expanded="true" signature="1014:1045" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="4263:4324" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="4537:4560" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="4720:4743" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="5242:5413" ph="{ ... }" />
+              <marker date="1519214539999" expanded="true" signature="5415:5438" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="5800:5823" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="5982:6005" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="6323:6346" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="6713:6736" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="7534:7557" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="7902:7925" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="8369:8563" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="8618:8641" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="9095:9343" ph="begin ... end" />
+              <marker date="1519214539999" expanded="true" signature="9123:9147" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="9643:9864" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="9671:9762" ph="{ ... }" />
+              <marker date="1519214539999" expanded="true" signature="9732:9758" ph="{ ... }" />
+              <marker date="1519214539999" expanded="true" signature="9786:9860" ph="{ ... }" />
+              <marker date="1519214539999" expanded="true" signature="10202:10221" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="10292:10317" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="10453:10534" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="10968:10991" ph="do ... end" />
+              <marker date="1519214539999" expanded="true" signature="11022:11045" ph="do ... end" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
