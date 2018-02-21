@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Jack Chu"]
   spec.email         = ["jack@jackchu.com"]
   spec.summary       = "Retriable is a simple DSL to retry failed code blocks with randomized exponential backoff"
-  spec.description   = "Retriable is a simple DSL to retry failed code blocks with randomized exponential backoff. This is especially useful when interacting external api/services or file system calls."
+  spec.description   = "Fixes for retriable with: 'Interval in not valid option' by Nikolay Kuzmenko"
   spec.homepage      = "http://github.com/kamui/retriable"
   spec.license       = "MIT"
 

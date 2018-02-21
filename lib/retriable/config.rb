@@ -6,6 +6,7 @@ module Retriable
       :sleep_disabled,
       :max_elapsed_time,
       :intervals,
+      :interval,
       :timeout,
       :on,
       :on_retry,
@@ -25,6 +26,7 @@ module Retriable
       @sleep_disabled   = false
       @max_elapsed_time = 900 # 15 min
       @intervals        = nil
+      @interval         = nil
       @timeout          = nil
       @on               = [StandardError]
       @on_retry         = nil
